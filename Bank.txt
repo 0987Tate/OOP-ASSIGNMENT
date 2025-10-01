@@ -1,3 +1,6 @@
 Tatenda Mharah deposited $500.0. New Balance: $1500.0
 Tatenda Mharah withdrew $200.0. New Balance: $1300.0
 Tatenda Mharah checked balance: $1300.0
+Tatenda Mharah deposited $500.0. New Balance: $1500.0
+Tatenda Mharah withdrew $200.0. New Balance: $1300.0
+Tatenda Mharah checked balance: $1300.0
